@@ -40,7 +40,9 @@
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
     "react-native-worklets": "^0.5.0",
-    "react-native-worklets-core": "^1.6.2"
+    "react-native-worklets-core": "^1.6.2",
+    "vision-camera-dynamsoft-document-normalizer": "^3.4.0",
+    "vision-camera-image-labeler": "^0.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
